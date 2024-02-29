@@ -1,1 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+html{
+    min-width: 1080px;
+    background-color: #1e1d2b;
+
+}
+.headi{
+    display: block;
+    position: absolute;
+    color: #ff702a;
+    left: 4%;
+    top: 0%;
+    font-size: 200%;
+}
+.home{
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 59%;
+    top: 2%;
+    font-size: 150%;
+    cursor: pointer;
+}
+.about{
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 66%;
+    top: 2%;
+    font-size: 150%;
+    cursor: pointer;
+}
+.menu{
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 74%;
+    top: 2%;
+    font-size: 150%;
+    cursor: pointer;
+}
+.service{
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 81%;
+    top: 2%;
+    font-size: 150%;
+    cursor: pointer;
+}
+.contact{
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 90%;
+    top: 2%;
+    font-size: 150%;
+    cursor: pointer;
+}
+/*-----------------------*/
+.title{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ff702a;
+    left: 13%;
+    top: 25%;
+    font-size: 500%;
+    flex: content;
+}
+.subtitle{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 13.3%;
+    top: 39%;
+    font-size: 180%;
+    width: 500px;
+}
+.subtitle2{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #fff;
+    left: 13.3%;
+    top: 42.5%;
+    font-size: 180%;
+    width: 500px;
+    flex: content;
+}
+.square{
+    display: block;
+    position: absolute;
+    background-color: #ff702a;
+    color: #fff;
+    height: 2%;
+    width: 7%;
+    text-align: center;
+    padding: 0.5%;
+    font-weight: 500;
+    top: 50%;
+    left: 13.3%;
+    font-size: 109%;
+    flex: content;
+    cursor: pointer;
+}
+.homa{
+    display: block;
+    position: absolute;
+    right: 13%;
+    top: 14%;
+    width: 33%;
+    height: auto;
+    flex:content
+}
+/*-----------------------*/
+.abouti{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ff702a;
+    left:47%;
+    top: 110%;
+    font-size: 160%;
+    flex: content;}
+.abouin{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ffffff;
+    left:47%;
+    top: 113%;
+    font-size: 310%;
+    width: 30%;}
+.aboutimg{
+    display: block;
+    position: absolute;
+    top: 113%;
+    left: 12%;
+}
+.abou{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ffffff;
+    left:47%;
+    top: 130%;
+    font-size: 140%;
+    width: 30%;
+}
+.learn{
+    display: block;
+    position: absolute;
+    background-color: #ff702a;
+    color: #fff;
+    height: 2%;
+    width: 7%;
+    text-align: center;
+    padding: 0.5%;
+    font-weight: 500;
+    top: 141%;
+    left:47%;
+    font-size: 109%;
+    flex: content;
+    cursor: pointer;
+}
+/*-----------------------*/
+
+.menuti{
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ff702a;
+    left: 46%;
+    right: 46%;
+    font-size: 160%;
+    top: 180%;
+    flex: content;}
+.descr{
+    display: block;
+    position: absolute;
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    color: #ffffff;
+    top: 183%;
+    font-size: 310%;
+    left: 28.5%;
+    right: 28.5%;}  
 
